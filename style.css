@@ -198,4 +198,9 @@ footer p {
         background-color: #24282B;
         min-height: 30vh;
     }
+    .mob-padded-0 {
+        padding: 0;   
+    }
+
+
 }
